@@ -199,16 +199,6 @@ git push origin feature/<your-feature>
 
 Licensed under the MIT License.
 See [`LICENSE.md`](LICENSE.md) for details.
-
----
-
-## 📝 Deployment Checklist
-
-* [ ] Update `[repository-url]`, `[your-email]`, `[deployment URL]`
-* [ ] Add `LICENSE.md` (MIT license text)
-* [ ] Include assets: `./assets/logo.png`, `./assets/display.png`
-* [ ] Replace mock signer & contract with live credentials
-
 ---
 
 *Nero Stripe Mini is built for developers, by developers — bridging traditional Web2 simplicity with Web3 payment security.*
