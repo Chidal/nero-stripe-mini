@@ -154,7 +154,7 @@ const tx = await contract.sendPayment(recipient, ethers.parseUnits(amount, 18), 
 
 ---
 
-## 🧪 Testing & Debugging
+## Testing & Debugging
 
 * **Unit Tests:** `npm test` (React Testing Library)
 * **Runtime:** Mock signer, monitor browser console
@@ -199,21 +199,6 @@ git push origin feature/<your-feature>
 
 Licensed under the MIT License.
 See [`LICENSE.md`](LICENSE.md) for details.
-
----
-
-## 🙌 Acknowledgments
-
-* **xAI’s Grok 3** – for early design insights
-* **NERO Chain** – for virtual testnet infrastructure
-* **Open-source Devs** – React, Ethers.js, Web3Auth
-
----
-
-## Contact
-
-* **GitHub Issues:** \[URL] <!-- Replace with issue tracker -->
-* **Email:** \[[your-email@example.com](mailto:your-email@example.com)] <!-- Replace -->
 
 ---
 
