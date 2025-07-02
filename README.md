@@ -56,7 +56,7 @@ npm run build
 > 🔗 Dev server runs on: [http://localhost:3000](http://localhost:3000)
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Core Libraries
 
@@ -78,7 +78,7 @@ For browser compatibility:
 
 ---
 
-## 🔧 Webpack Configuration (via CRACO)
+## Webpack Configuration (via CRACO)
 
 `craco.config.js` includes browser polyfills and custom Webpack tweaks:
 
@@ -101,7 +101,7 @@ plugins: [
 
 ---
 
-## 🔌 Integration Details
+## Integration Details
 
 ### Web3Auth Setup (`WalletConnect.tsx`)
 
@@ -135,7 +135,7 @@ const tx = await contract.sendPayment(recipient, ethers.parseUnits(amount, 18), 
 
 ---
 
-## 🐞 Known Build & Runtime Issues
+## Known Build & Runtime Issues
 
 | Issue                                    | Cause                               | Fix                                |
 | ---------------------------------------- | ----------------------------------- | ---------------------------------- |
@@ -145,7 +145,7 @@ const tx = await contract.sendPayment(recipient, ethers.parseUnits(amount, 18), 
 
 ---
 
-## 🔨 Build Process
+## Build Process
 
 * Init via: `npx create-react-app --template typescript`
 * Webpack override via: `@craco/craco`
@@ -195,7 +195,7 @@ git push origin feature/<your-feature>
 
 ---
 
-## 📄 License
+## License
 
 Licensed under the MIT License.
 See [`LICENSE.md`](LICENSE.md) for details.
@@ -210,7 +210,7 @@ See [`LICENSE.md`](LICENSE.md) for details.
 
 ---
 
-## 📫 Contact
+## Contact
 
 * **GitHub Issues:** \[URL] <!-- Replace with issue tracker -->
 * **Email:** \[[your-email@example.com](mailto:your-email@example.com)] <!-- Replace -->
